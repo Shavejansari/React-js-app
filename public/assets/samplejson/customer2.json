@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "Ashirwad Sharma",
+	"email": "Ashirvadsharma@test.com",
+	"phone": "987654321",
+	"city": "Mangalore",
+	"state": "karnataka",
+	"country": "India",
+	"organization": "Zapbuild.pvt",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Products Rarely"
+}
