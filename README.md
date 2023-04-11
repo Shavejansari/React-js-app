@@ -65,3 +65,17 @@ https://github.com/facebook/create-react-app
 **ReactJS** : Refer to https://reactjs.org/ to understand the concepts of ReactJS
 
 **React Bootstrap** : Refer to https://react-bootstrap.github.io/getting-started/introduction/ to understand how to use React Bootstrap
+########################################################################################################################################################################################
+#Info about the project of jenkins
+Create Jenkins pipline for deploy React.js ap
+1. Pull from git hub.
+2.configure the Docker hub
+3.write a docker file
+4.build the image of it 
+5. contanerized 
+6.and deploy manualy
+7. Then Write a jenkinsfile to automate the process
+8. pull from git hub 
+-build the image and push the image into docker hub.
+-Then delete the image from local
+-Then Pull the image from Docker hub and run on port 3000
